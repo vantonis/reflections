@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You give signal to git that the current folder is now treated as a git repository and you need to do it in order to be able to execute git commands related to versioning etc.
